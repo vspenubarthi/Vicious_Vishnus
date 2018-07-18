@@ -1,0 +1,285 @@
+[33mcommit 1812ef0d49eec17a565bb50a875bf10fbc5f4b1a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Ryan <rblow@me.com>
+Date:   Mon Jul 16 21:45:42 2018 -0400
+
+    When I tested it it works so someone should double check, also no comments so.....yeah
+
+[33mcommit bcb5d2746b77ecfd2e8c37156c183fe5e552b956[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: bdf2f3d ecb2e96
+Author: Eden <edengorevoy@gmail.com>
+Date:   Sat Jul 14 08:59:38 2018 -0400
+
+    pickle changes
+
+[33mcommit bdf2f3d9d93ba8c00b6e38175b26652628b44c3a[m
+Author: Eden <edengorevoy@gmail.com>
+Date:   Fri Jul 13 19:29:07 2018 -0400
+
+    this has a ufunc 'subtract' error
+
+[33mcommit ecb2e96f0af0dfae25be5df6ee133c9ffa1f894f[m
+Author: Ryan <rblow@me.com>
+Date:   Fri Jul 13 18:31:13 2018 -0400
+
+    The Final Audio comments
+
+[33mcommit 537c76c8454fb38fe24284924d06a15c855ecf0a[m
+Author: Ryan <rblow@me.com>
+Date:   Fri Jul 13 15:29:32 2018 -0400
+
+    Let's hope this works
+
+[33mcommit 94d2744615b029e6392472b7ad55a77789aa9341[m
+Merge: bf75463 338ad43
+Author: Eden <edengorevoy@gmail.com>
+Date:   Fri Jul 13 14:31:04 2018 -0400
+
+    Merge branch 'master' of https://github.com/vspenubarthi/Vicious_Vishnus
+
+[33mcommit bf7546303977e810715d58dcb81d0a939d6e8e57[m
+Author: Eden <edengorevoy@gmail.com>
+Date:   Fri Jul 13 14:30:23 2018 -0400
+
+    final audio edits
+
+[33mcommit 338ad4327633786e7794b8b6080b206d2fded3c9[m
+Author: Ryan <rblow@me.com>
+Date:   Fri Jul 13 13:52:54 2018 -0400
+
+    Ryan's Songs
+
+[33mcommit def2138432c7453470b4cf404bccff15e68330c2[m
+Author: Eden <edengorevoy@gmail.com>
+Date:   Fri Jul 13 13:44:33 2018 -0400
+
+    eden's changes
+
+[33mcommit 4560c707d235db706eebb90e1b99708943ef1180[m
+Author: Ryan <rblow@me.com>
+Date:   Fri Jul 13 11:13:12 2018 -0400
+
+    let's hope this works
+
+[33mcommit 07b6aa985cc31c1f7d923b7d335ce7ddef01b116[m
+Author: Ryan <rblow@me.com>
+Date:   Fri Jul 13 10:52:18 2018 -0400
+
+    trying to fix stuff
+
+[33mcommit 54dd3363e8963b19f35e465307f6ce6889f6bc6a[m
+Author: Michael Heege <heegem@bxscience.edu>
+Date:   Fri Jul 13 10:39:39 2018 -0400
+
+    Made names not horrible
+
+[33mcommit 3feb3c9e8f3b30ceef1a1477d19b3ac2cff2a851[m
+Merge: 4c35359 a9edbb6
+Author: Eden <edengorevoy@gmail.com>
+Date:   Fri Jul 13 10:31:49 2018 -0400
+
+    Merge branch 'master' of https://github.com/vspenubarthi/Vicious_Vishnus
+
+[33mcommit 4c35359bb3154f15c40d65d52e2c18e89e3e4f3e[m
+Author: Eden <edengorevoy@gmail.com>
+Date:   Fri Jul 13 10:22:32 2018 -0400
+
+    final audio before matching function
+
+[33mcommit a9edbb68a7eeac660cdacd004a545ae6f1196e0d[m
+Author: Ryan <rblow@me.com>
+Date:   Fri Jul 13 10:19:51 2018 -0400
+
+    with matching
+
+[33mcommit 410e9dafa95ddbfd2a0872340f344fc35221ed86[m
+Author: Ryan <rblow@me.com>
+Date:   Fri Jul 13 10:05:43 2018 -0400
+
+    ehhhhh
+
+[33mcommit a0013b08d900b0fd71f0834f3a3b51c66203c919[m
+Merge: 24cd41f 6bb31af
+Author: Ryan <rblow@me.com>
+Date:   Fri Jul 13 10:05:22 2018 -0400
+
+    Merge branch 'master' of https://github.com/vspenubarthi/Vicious_Vishnus
+
+[33mcommit 24cd41f1cc3452953a7164ed27d8b8192e173a3e[m
+Author: Ryan <rblow@me.com>
+Date:   Fri Jul 13 10:03:38 2018 -0400
+
+    ehhhhh
+
+[33mcommit 6bb31affb6ee4a63ad5b0cf223b9799479a2e518[m
+Author: Eden <edengorevoy@gmail.com>
+Date:   Fri Jul 13 10:02:18 2018 -0400
+
+    Final Audio.ipynb
+
+[33mcommit f6e9cba4811ad0845c151d33ebe5379a9050eed0[m
+Merge: 66bb9bb 1ea6ff9
+Author: Michael Heege <heegem@bxscience.edu>
+Date:   Thu Jul 12 16:59:45 2018 -0400
+
+    Merge branch 'master' of https://github.com/vspenubarthi/Vicious_Vishnus
+
+[33mcommit 66bb9bb5660af1b4c0432d7f2f04607b5a4f1b1a[m
+Author: Michael Heege <heegem@bxscience.edu>
+Date:   Thu Jul 12 16:59:14 2018 -0400
+
+    Despacito
+
+[33mcommit 1ea6ff915199431b98161061407c815fc6f6b40f[m
+Author: Ryan <rblow@me.com>
+Date:   Thu Jul 12 16:48:16 2018 -0400
+
+    Let's hope this works
+
+[33mcommit aa294a343bf55cfe32e9c8f8d56a0fd5b04f3774[m
+Author: Ryan <rblow@me.com>
+Date:   Thu Jul 12 16:36:31 2018 -0400
+
+    Vishnu's code
+
+[33mcommit 65f1603e38cdd67367f56de4d2f2003dbd39d844[m
+Author: Ryan <rblow@me.com>
+Date:   Thu Jul 12 16:35:05 2018 -0400
+
+    Vishnu's code
+
+[33mcommit 9399db05aadbd206f9a54e2deb59eeb36b7b6a84[m
+Merge: c24d760 de4efbf
+Author: Ryan <rblow@me.com>
+Date:   Thu Jul 12 16:28:45 2018 -0400
+
+    Merge branch 'master' of https://github.com/vspenubarthi/Vicious_Vishnus
+
+[33mcommit c24d760effe09d40b52d6cc9ba19c94694361367[m
+Author: Ryan <rblow@me.com>
+Date:   Thu Jul 12 16:28:12 2018 -0400
+
+    Final project
+
+[33mcommit de4efbf8c49f3454497272cafbf5a0fd1b14bf2b[m
+Author: vspenubarthi <vspenubarthi@wpi.edu>
+Date:   Thu Jul 12 16:27:25 2018 -0400
+
+    Yeet
+
+[33mcommit 401d873e3d0944942b3843a592ef28f079ab0382[m
+Author: Eden <edengorevoy@gmail.com>
+Date:   Thu Jul 12 16:07:48 2018 -0400
+
+    this is so sad alexa play
+
+[33mcommit afdb2de837b828e78e74f9b39885cfd72466bd5f[m
+Merge: 39fc822 1933ccf
+Author: vspenubarthi <vspenubarthi@wpi.edu>
+Date:   Thu Jul 12 16:00:25 2018 -0400
+
+    Merge branch 'master' of https://github.com/vspenubarthi/Vicious_Vishnus
+
+[33mcommit 39fc8222b52d1b666a2996bba85794805732bae5[m
+Author: vspenubarthi <vspenubarthi@wpi.edu>
+Date:   Thu Jul 12 15:59:41 2018 -0400
+
+    A few songs added
+
+[33mcommit fcb7eec749e85c4922a86b02ea2236ffb21bae51[m
+Author: vspenubarthi <vspenubarthi@wpi.edu>
+Date:   Thu Jul 12 15:58:56 2018 -0400
+
+    A few songs added
+
+[33mcommit 8c6949a24bc21aea0e276dba4ca0ff5dec6e0068[m
+Merge: e0b5f5f 1933ccf
+Author: Ryan <rblow@me.com>
+Date:   Thu Jul 12 15:56:16 2018 -0400
+
+    Merge branch 'master' of https://github.com/vspenubarthi/Vicious_Vishnus
+
+[33mcommit e0b5f5f97b043284d1fe39f2762d01b6ebacfdba[m
+Merge: 3478dbd 74788cf
+Author: Ryan <rblow@me.com>
+Date:   Thu Jul 12 15:53:00 2018 -0400
+
+    Merge branch 'master' of https://github.com/vspenubarthi/Vicious_Vishnus
+
+[33mcommit 1933ccf27f52ee7912eaa17908a03c7da957e2de[m
+Merge: 1edca5f 74788cf
+Author: Eden <edengorevoy@gmail.com>
+Date:   Thu Jul 12 15:52:55 2018 -0400
+
+    Merge branch 'master' of https://github.com/vspenubarthi/Vicious_Vishnus
+
+[33mcommit 1edca5f55c4852c72ff79c0d650d3ac777a72290[m
+Author: Eden <edengorevoy@gmail.com>
+Date:   Thu Jul 12 15:51:46 2018 -0400
+
+    the pickle
+
+[33mcommit cd8c1cbac11124fd1a2bc5971d817b2c38745ff8[m
+Author: Eden <edengorevoy@gmail.com>
+Date:   Thu Jul 12 15:51:04 2018 -0400
+
+    adding stuff
+
+[33mcommit 74788cfdbf2fc1392b65c51dd8a30e6846e5e751[m
+Author: Michael Heege <heegem@bxscience.edu>
+Date:   Thu Jul 12 15:24:03 2018 -0400
+
+    commmit
+
+[33mcommit 3478dbdb9fe0a64ca4302c6863529b603c8b8bc4[m
+Merge: 956a527 7b4b7ad
+Author: Ryan <rblow@me.com>
+Date:   Thu Jul 12 15:10:24 2018 -0400
+
+    Merge branch 'Test_Branch' of https://github.com/vspenubarthi/Vicious_Vishnus
+
+[33mcommit 7b4b7ad1390b5ee5d2526cb669c9e64c69c3a17f[m[33m ([m[1;31morigin/Test_Branch[m[33m)[m
+Author: Eden <edengorevoy@gmail.com>
+Date:   Thu Jul 12 15:10:01 2018 -0400
+
+    data
+
+[33mcommit ccbdf4d00849a55f0c0aef28aa6441dd030a20d4[m
+Author: MichaelHeege <40773605+MichaelHeege@users.noreply.github.com>
+Date:   Thu Jul 12 15:09:23 2018 -0400
+
+    added thing
+
+[33mcommit 7242dc3829e1706e3e2862ed911552c1ed4f4166[m
+Merge: 2c67d79 b36f1d6
+Author: Eden <edengorevoy@gmail.com>
+Date:   Thu Jul 12 15:08:01 2018 -0400
+
+    Merge branch 'master' of https://github.com/vspenubarthi/Vicious_Vishnus into Test_Branch
+
+[33mcommit 956a5279b0d09483ac3fe8b536b7ccae7292ca5c[m
+Merge: b36f1d6 2c67d79
+Author: Ryan <rblow@me.com>
+Date:   Thu Jul 12 15:06:18 2018 -0400
+
+    Merge branch 'Test_Branch' of https://github.com/vspenubarthi/Vicious_Vishnus
+
+[33mcommit b36f1d64eb1bd9bcea7dfe6aa01d39c226471b33[m
+Author: Ryan <rblow@me.com>
+Date:   Thu Jul 12 15:04:46 2018 -0400
+
+    adding the shared song directory
+
+[33mcommit 2c67d79a94a764a10cac2eadc098bd0be93dfbe8[m
+Author: Eden <edengorevoy@gmail.com>
+Date:   Thu Jul 12 15:03:39 2018 -0400
+
+    for testing
+
+[33mcommit a65a56b6d6255c8acd4d0b345534f05a309d5eae[m
+Author: Ryan <rblow@me.com>
+Date:   Thu Jul 12 14:56:51 2018 -0400
+
+    adding to a dictionary
+
+[33mcommit 7f9b199a04f583f7f968122ff86376fd5db9b386[m
+Merge: 165e
